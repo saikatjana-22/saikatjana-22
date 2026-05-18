@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ChatGPT Image May 18, 2026, 11_41_41 AM.png" width="100%" height ="280">
+</p>
 <h1 align="center">Hi 👋, I'm Saikat Jana</h1>
 <h3 align="center">Growing as a developer| Learning daily</h3>
 
@@ -91,12 +94,14 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saikatjana-22&theme=radical" />
+
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatjana-22&layout=compact&theme=radical&hide_border=true" height="160" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-flax.vercel.app/?user=saikatjana-22&theme=radical&hide_border=true" height="160" />
+     <img src="https://github-readme-streak-stats-flax.vercel.app/?user=saikatjana-22&theme=radical&hide_border=true" height="160" />
+ 
 </p>
 
 <p align="center">

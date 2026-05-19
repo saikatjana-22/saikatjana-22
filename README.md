@@ -85,7 +85,7 @@
 <h2 align="center">📈 LeetCode Stats 📈</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/saikat_jana?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Saikat_Jana?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </p>
 ---
 
